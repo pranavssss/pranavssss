@@ -54,7 +54,8 @@
 - Optimized real-time processing on Raspberry Pi for faster passenger detection in crowded environments.  
 
 **National University of Singapore** – Project Intern | Jun 2023 – Aug 2023  
-- Built predictive models for seismic events with a database of 10,000+ events.  
+- Directed the development of a predictive modeling framework for analyzing near fault non-pulse ground motions, leading to the creation of a robust database consisting of 10,000+ seismic events.
+
 - Optimized ANN training to improve model efficiency by 30%.    
 
 ---
