@@ -34,7 +34,11 @@
 ## Skills
 
 **Programming & Tools:**  Python, C, R, Azure, n8n, SQL, Power BI, Tableau, PostgreSQL, MongoDB, SSRS, Dotnet Report, MATLAB, Verilog, Docker, Git, REST APIs, Flask, ETL 
+
+
 **Libraries & Others:**  Pandas, Numpy, Scikit-learn, Matplotlib, Seaborn, TensorFlow, Optical Character Recognition (OCR), Exploratory Data Analysis (EDA), Statistical Analysis, Probability, and Data Engineering 
+
+
 **Area of Research:** Machine Learning, IOT, NLP, Computer Vision, LLM, Agentic AI
 
 ---
