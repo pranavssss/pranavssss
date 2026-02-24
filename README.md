@@ -80,6 +80,7 @@
 
 ---
 **📄 Portfolio deck**: https://drive.google.com/file/d/1AJyK24A_xAxgRBzCo9bnxQGAJI1ZFu46/view
+**📄 Introductory Deck: https://drive.google.com/file/d/1O4cFGirGnETODsEtCIO371WM6yYwIiYJ/view?usp=drive_link
 
 
 ** I'm always eager to connect, collaborate, and learn. Let’s talk data, innovation, and the future of AI. **
