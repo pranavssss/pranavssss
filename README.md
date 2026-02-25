@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Pranav Senthilkumaran
 
-**📍 Location:** NJ, USA | **📧 Email:** [ps1471@scarletmail.rutgers.edu](mailto:ps1471@scarletmail.rutgers.edu) | **LinkedIn:** [https://www.linkedin.com/in/pranav-senthilkumaran/](https://www.linkedin.com/in/pranav-senthilkumaran/) | **Personal Website (Non-technical achievements):** [pranav.org.in](http://pranav.org.in/)
+**📍 Location:** NJ, USA | **📧 Email:** [ps1471@scarletmail.rutgers.edu](mailto:ps1471@scarletmail.rutgers.edu) | **LinkedIn:** [https://www.linkedin.com/in/pranav-senthilkumaran/](https://www.linkedin.com/in/pranav-senthilkumaran/) | **Personal Website (Non-technical side):** [pranav.org.in](http://pranav.org.in/)
 
 ---
 
