@@ -1,6 +1,25 @@
-# Hi there 👋, I'm Pranav Senthilkumaran
-
-**📍 Location:** NJ, USA | **📧 Email:** [ps1471@scarletmail.rutgers.edu](mailto:ps1471@scarletmail.rutgers.edu) | **LinkedIn:** [https://www.linkedin.com/in/pranav-senthilkumaran/](https://www.linkedin.com/in/pranav-senthilkumaran/) | **Personal Website (Non-technical side):** [pranav.org.in](http://pranav.org.in/)
+<h1 align="center">Hi there 👋, I'm Pranav Senthilkumaran</h1>
+<p align="center">
+  Data Science Graduate at Rutgers University | Microsoft Azure AI Engineer Associate Certified | Building Scalable ML & Data Engineering Systems | Backend & AI Solutions
+</p>
+<p align="center">
+  📍 NJ, USA &nbsp;|&nbsp;
+  📧 <a href="mailto:ps1471@scarletmail.rutgers.edu">ps1471@scarletmail.rutgers.edu</a> &nbsp;|&nbsp;
+  <a href="https://www.linkedin.com/in/pranav-senthilkumaran/">LinkedIn</a> &nbsp;|&nbsp;
+  <a href="http://pranav.org.in/">Personal Website (Non-technical side)</a>
+</p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/pranav-senthilkumaran/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:ps1471@scarletmail.rutgers.edu">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="http://pranav.org.in/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=pranavsk313&color=blue&style=for-the-badge"/>
+</p>
 
 ---
 
@@ -34,14 +53,54 @@
 
 ---
 
-## Skills
+## 🛠️ tech stack
 
-**Programming & Tools:**  Python, C, R, Azure, n8n, SQL, Power BI, Tableau, PostgreSQL, MongoDB, SSRS, Dotnet Report, MATLAB, Verilog, Postman, CI/CD, Docker, Git, REST APIs, Flask, ETL
-
-**Libraries & Others:**  Pandas, Numpy, Scikit-learn, Matplotlib, Seaborn, TensorFlow, Ad-hoc Reporting, Optical Character Recognition (OCR), Exploratory Data Analysis (EDA), Statistical Analysis, Probability, and Data Engineering
-
-**Area of Research:** Machine Learning, IOT, NLP, Computer Vision, LLM, Agentic AI
-
+💻 Languages:
+<p>
+  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/r-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+  <img src="https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/c-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/matlab-0076A8?style=for-the-badge&logo=mathworks&logoColor=white"/>
+</p>
+🤖 AI/ML/Data Science:
+<p>
+  <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/yolov8-00FFFF?style=for-the-badge&logo=yolo&logoColor=black"/>
+  <img src="https://img.shields.io/badge/ocr-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+</p>
+☁️ Cloud & Devops:
+<p>
+  <img src="https://img.shields.io/badge/azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ci%2Fcd-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+</p>
+🔧 Backend & Apis:
+<p>
+  <img src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/rest%20apis-FF6B35?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
+</p>
+🗄️ Databases:
+<p>
+  <img src="https://img.shields.io/badge/postgresql-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/sql%20server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+</p>
+📊 BI & Visualization:
+<p>
+  <img src="https://img.shields.io/badge/power%20bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
+📄 Area of Research: Machine Learning, IOT, NLP, Computer Vision, LLM, Agentic AI
 ---
 
 ## Professional Experience
