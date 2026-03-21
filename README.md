@@ -33,7 +33,7 @@
 
 ## 🎓 Education
 
-### 🏫 **Rutgers University**, New Brunswick, NJ
+### 🏫 **Rutgers University**, New Brunswick, New Jersey
 *Master of Science in Data Science* | GPA: 3.667/4.0 | 2024 – E.May 2026
 
 *Relevant Coursework:* Data Mining, Data Wrangling, Regression and Time Series Analysis, Data Structures and Algorithms, Statistical Models and Computing, AI and LLM in Data Science, Probability, Database Management Systems
