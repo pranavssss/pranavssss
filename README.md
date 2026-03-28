@@ -25,7 +25,7 @@
 * I'm a Master's student in Data Science at Rutgers University with hands-on experience in data analysis, machine learning, AI, and business intelligence.
 * I enjoy transforming raw data into actionable insights, building intelligent systems, and automating workflows.
 * I spend a lot of time working with LLMs and machine learning systems — fine-tuning models, benchmarking performance, and building semantic and concept search pipelines.
-* I'm passionate about leveraging data science to **automate the entire data science life cycle** using **agentic AI and predefined protocols**, and building **custom AI solutions**.
+* I'm passionate about leveraging data science to **automate the entire data science life cycle** using **agentic AI and predefined set of protocols**, and building **custom AI solutions**.
 * I'm someone who wants to *"build a lemonade stand out of lemons, not just work at the lemonade stand"*.
 * Beyond tech, I love art 🎨, piano 🎹, and playing badminton 🏸.
 
