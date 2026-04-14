@@ -20,7 +20,7 @@
 
 ---
 
-## 🙋‍♂️ About M
+## 🙋‍♂️ About Me
 
 * I'm a Master's student in Data Science at Rutgers University with hands-on experience in data analysis, machine learning, AI, and business intelligence.
 * I enjoy transforming raw data into actionable insights, building intelligent systems, and automating workflows.
