@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="http://pranav.org.in/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio%20(Non--tech)-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio%20-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
   </a>
 </p>
 
