@@ -110,7 +110,7 @@ Machine Learning, IoT, NLP, Computer Vision, LLM, Agentic AI
 **Space Ace Inc.** – Backend & Data Engineering Intern | Chicopee, Massachusetts | Feb 2026 – Present
 
 * Working on designing an end-to-end backend for a streaming platform, focusing on REST API design, PostgreSQL schema modeling, and MongoDB collections, with OAuth-based authentication using Python, FastAPI, and SQL.
-* Containerizing services with Docker and deploying on AWS (ECS, RDS, S3, Secrets Manager) using Terraform modules to support authentication flows, data storage, and API performance.
+* Containerizing services with Docker and deploying on AWS (ECS, RDS, S3, Secrets Manager, SES) using Terraform modules to support authentication flows, data storage, and API performance.
 
 **Kentuckiana Curb Company** – Business Intelligence Strategy Analyst Intern | Louisville, KY | Dec 2024 – Apr 2025
 
