@@ -141,7 +141,7 @@ Machine Learning, IoT, NLP, Computer Vision, LLM, Agentic AI
 
 ---
 
-**📄 Portfolio Deck:** https://drive.google.com/drive/home?dmr=1&ec=wgc-drive-%5Bmodule%5D-goto
+**📄 Portfolio Deck:** https://drive.google.com/file/d/1wakCMmuyRXUyUDRZ_eNYQMUTnmXNah6K/view?usp=sharing
 
 **📄 Introductory Deck:** https://drive.google.com/file/d/1O4cFGirGnETODsEtCIO371WM6yYwIiYJ/view?usp=drive_link
 
