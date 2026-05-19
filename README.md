@@ -4,13 +4,13 @@
 </p>
 <p align="center">
   📍 NJ, USA &nbsp;|&nbsp;
-  📧 <a href="mailto:ps1471@scarletmail.rutgers.edu">ps1471@scarletmail.rutgers.edu</a>
+  📧 <a href="mailto:senthilkumaranpranav@gmail.com">senthilkumaranpranav@gmail.com</a>
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/pranav-senthilkumaran/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:ps1471@scarletmail.rutgers.edu">
+  <a href="mailto:senthilkumaranpranav@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="http://pranav.org.in/" target="_blank">
