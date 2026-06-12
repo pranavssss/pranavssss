@@ -101,7 +101,7 @@
 
 🔬 Area of Research:
 
-Machine Learning, IoT, NLP, Computer Vision, LLM, Agentic AI
+Machine Learning, IoT, NLP, Computer Vision, LLM, Agentic AI, Healthcare AI
 
 ---
 
