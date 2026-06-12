@@ -141,7 +141,7 @@ Machine Learning, IoT, NLP, Computer Vision, LLM, Agentic AI, Healthcare AI
 
 ---
 
-**📄 Portfolio Deck:** https://drive.google.com/file/d/1XljzGstySxl5IYHUuNypJCegCQoN4Cq5/view?usp=sharing
+**📄 Portfolio Deck:** https://drive.google.com/file/d/18_wkIhH196DHbl6NE9TYwS7E8JkXULDH/view?usp=sharing
 
 **📄 Introductory Deck:** https://drive.google.com/file/d/1O4cFGirGnETODsEtCIO371WM6yYwIiYJ/view?usp=drive_link
 
