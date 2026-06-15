@@ -131,6 +131,7 @@ Machine Learning, IoT, NLP, Computer Vision, LLM, Agentic AI, Healthcare AI
 
 ## 🏆 Certifications & Achievements
 
+* Build with LLM Observability: From Setup to Signal, Datadog DASH Certification | 2026                                                
 * Microsoft Certified: Azure AI Engineer Associate (AI-102) | 2025
 * Bloomberg Finance Fundamentals | 2025
 * n8n Certification | 2025
@@ -141,7 +142,7 @@ Machine Learning, IoT, NLP, Computer Vision, LLM, Agentic AI, Healthcare AI
 
 ---
 
-**📄 Portfolio Deck:** https://drive.google.com/file/d/18_wkIhH196DHbl6NE9TYwS7E8JkXULDH/view?usp=sharing
+**📄 Portfolio Deck:** https://drive.google.com/file/d/1N0tQB5ZgIvhZ6yjb5o84kYUs1nLNzVb2/view?usp=sharing
 
 **📄 Introductory Deck:** https://drive.google.com/file/d/1O4cFGirGnETODsEtCIO371WM6yYwIiYJ/view?usp=drive_link
 
