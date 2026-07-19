@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Pranav Senthilkumaran</h1>
 <p align="center">
-  Data Science Graduate at Rutgers University | Microsoft Azure AI Engineer Associate certified | Building Scalable ML & Data Engineering Systems | Backend & AI Solutions
+  Data Science Graduate at Rutgers University | Microsoft Azure AI Engineer Associate Certified | Building Scalable ML & Data Engineering Systems | Backend & AI Solutions
 </p>
 <p align="center">
   📍 NJ, USA &nbsp;|&nbsp;
